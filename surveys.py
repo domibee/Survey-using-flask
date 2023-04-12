@@ -21,7 +21,7 @@ class Survey:
         self.title = title
         self.instructions = instructions
         self.questions = questions
-
+    
 
 satisfaction_survey = Survey(
     "Customer Satisfaction Survey",
